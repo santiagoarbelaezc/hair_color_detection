@@ -1,0 +1,19 @@
+# Dataset y archivos grandes
+data/
+results/weights/
+results/predictions/
+results/recolored/
+
+# Archivos de Python y Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Archivos temporales de creación (el script que usamos)
+create_notebooks.py
